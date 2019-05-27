@@ -1,4 +1,4 @@
-package com.example.notas.base_de_datos_modelo;
+package com.example.notas;
 
 public class Note {
     public static final String TABLE_NAME = "notes";

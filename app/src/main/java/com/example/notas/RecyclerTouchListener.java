@@ -1,4 +1,5 @@
-package com.example.notas.utils;
+package com.example.notas;
+
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.GestureDetector;
